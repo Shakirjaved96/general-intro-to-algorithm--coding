@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 import chalk from "chalk";
 // Q9: Write a simple JavaScript program that checks if a person is eligible for a CNIC (show a message with the person's name).

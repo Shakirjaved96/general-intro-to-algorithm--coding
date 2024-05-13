@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 import chalk from "chalk";
 // Q6: Write a program that calculates the Body Mass Index (BMI) and categorizes it.

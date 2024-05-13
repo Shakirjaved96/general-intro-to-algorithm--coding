@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 // Q1: Write a program that checks whether the given number is positive or negative.
 import inquirer from "inquirer";
 import chalk from "chalk";
