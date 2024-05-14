@@ -25,9 +25,9 @@ console.log(chalk.bold.yellow(
 
 // use conditional statement
 if (cnic.age >= 18) {
-    console.log(`\n${cnic.name}! You Are Eligible For CNIC.`);
+    console.log (chalk.green(`\n${cnic.name}! You Are Eligible For CNIC.`));
     } else {
-        console.log(`\n${cnic.name}! You Are Not Eligible For CNIC.`);
+        console.log (chalk.redBright(`\n${cnic.name}! You Are Not Eligible For CNIC.`));
     }
 
     //End message
